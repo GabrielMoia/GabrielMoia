@@ -21,7 +21,7 @@
   <a href="https://instagram.com/gwbriel.rios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielriosmoia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-oliveira-rios-moia-329979386/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://www.codedex.io/@LeodosSantos" target="_blank"><img src="https://img.shields.io/badge/-Codedex-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.codedex.io/@GabrielMoia" target="_blank"><img src="https://img.shields.io/badge/-Codedex-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <picture>
