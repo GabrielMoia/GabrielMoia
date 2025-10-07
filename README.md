@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/pauloVarelo">
+  <a href="https://github.com/GabrielMoia">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielMoia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoia&layout=compact&langs_count_private=true&theme=dracula"/>
 </div>
@@ -19,7 +19,6 @@
    ##
  
 <div> 
-  <a href="https://instagram.com/gwbriel.rios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielriosmoia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-oliveira-rios-moia-329979386/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://www.codedex.io/@GabrielMoia" target="_blank"><img src="https://img.shields.io/badge/-Codedex-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
